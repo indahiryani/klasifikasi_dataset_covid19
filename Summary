@@ -1,0 +1,30 @@
+Berikut ringkasan (summary) dari materi yang sudah dipelajari
+
+1. Pengantar Data Mining
+Data mining adalah proses menggali informasi atau pola tersembunyi dari kumpulan data besar.
+Latar belakangnya muncul dari kebutuhan untuk mengelola dan menganalisis data dalam jumlah besar
+yang tidak bisa ditangani secara manual. Proses data mining meliputi beberapa tahapan utama: pemilihan data,
+pembersihan data, transformasi, pemodelan, evaluasi, dan deployment.
+
+2. Data: Jenis & Kualitas
+Data dapat berbentuk numerik, kategorikal, ordinal, atau time series.
+Kualitas data sangat berpengaruh pada hasil analisis, sehingga penting
+memastikan data bebas dari noise, duplikasi, dan missing value.
+
+3. Preprocessing Data & Teknik Pengukuran
+Preprocessing mencakup pembersihan data, normalisasi, transformasi, dan reduksi dimensi.
+Teknik pengukuran seperti mean, median, modus, dan standar deviasi digunakan untuk memahami karakteristik dasar data.
+
+4. Eksplorasi Data
+Statistik deskriptif dan visualisasi (seperti histogram, boxplot, scatterplot)
+digunakan untuk mengenali pola awal, anomali, dan hubungan antar atribut dalam data.
+
+5. Klasifikasi
+Klasifikasi adalah teknik data mining untuk memprediksi label atau kategori suatu data. Dua metode umum:
+Decision Tree: model berbasis pohon keputusan yang mudah dipahami dan diinterpretasikan.
+Naïve Bayes: metode berbasis probabilitas dengan asumsi independensi antar fitur.
+
+6. Penerapan Klasifikasi dengan Python
+Dasar-dasar penggunaan Python dalam data science meliputi pemrosesan data,
+penggunaan library seperti pandas, sklearn, dan visualisasi dengan matplotlib atau seaborn.
+Implementasi Decision Tree di Python dilakukan dengan DecisionTreeClassifier dari sklearn.
